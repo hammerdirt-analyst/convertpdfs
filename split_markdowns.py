@@ -6,11 +6,6 @@ import os
 import sys
 import json
 
-
-
-
-
-
 def is_valid_markdown_file(file_path):
     """Check if the given path is a valid markdown file."""
     if not file_path.lower().endswith('.md'):
