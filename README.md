@@ -1,5 +1,9 @@
 # Convert pdfs to markdown
 
+This is part of an application that reports survey results from field observations. It is part of an appplication protoype:
+
+1. [state of things](https://reporterdemo-hammerdirt.streamlit.app/)
+
 This has the methods we use to convert selected .pdfs to markdown. The process is part of making RAG applications and context for llms'. We do not handle 1'000s of pdfs. We have a person who
 does literature review, sometimes two people. Once they select an article they convert it to markdown and review the converted text. They check for the following:
 
